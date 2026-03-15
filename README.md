@@ -76,7 +76,8 @@
 9. Завершаем программу с кодом возврата 0
 
 ### Тестирование
-
+<img width="1006" height="645" alt="Image" src="https://github.com/user-attachments/assets/76772783-5326-4eff-b8f4-1b0fb5b52294" />
+<img width="1021" height="652" alt="Image" src="https://github.com/user-attachments/assets/7a361443-05f9-451a-ad92-92cb9ab03947" />
 
 
 
@@ -172,6 +173,6 @@
 11. Завершаем программу с кодом возврата 0
 
 ### Тестирование
-
-
+<img width="871" height="784" alt="Image" src="https://github.com/user-attachments/assets/dbd76335-712b-4928-9337-9fb8f3fe2b48" />
+<img width="812" height="789" alt="Image" src="https://github.com/user-attachments/assets/e00a6189-7b5d-4c86-9998-2a5b4cae8401" />
 
