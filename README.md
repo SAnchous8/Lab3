@@ -152,7 +152,7 @@
 
       Если number = 0 и digit = 0, возвращаем 1
    
-      Если number = 0 и digit ≠ 0, возвращаем 0
+      Если number = 0 и digit != 0, возвращаем 0
    
       Если number > 0, вызываем функцию checkDigits с аргументом number
 
