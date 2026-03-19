@@ -72,8 +72,9 @@
 8. Завершаем программу с кодом возврата 0
 
 ### Тестирование
-<img width="1006" height="645" alt="Image" src="https://github.com/user-attachments/assets/76772783-5326-4eff-b8f4-1b0fb5b52294" />
-<img width="1021" height="652" alt="Image" src="https://github.com/user-attachments/assets/7a361443-05f9-451a-ad92-92cb9ab03947" />
+<img width="857" height="612" alt="Image" src="https://github.com/user-attachments/assets/be258187-b71a-4009-a9d8-2862d9b46999" />
+<img width="899" height="612" alt="Image" src="https://github.com/user-attachments/assets/e9572ace-5fd5-4e59-9608-ae6c554fd033" />
+
 
 
 
@@ -177,6 +178,6 @@
 10. Завершаем программу с кодом возврата 0
 
 ### Тестирование
-<img width="871" height="784" alt="Image" src="https://github.com/user-attachments/assets/dbd76335-712b-4928-9337-9fb8f3fe2b48" />
-<img width="812" height="789" alt="Image" src="https://github.com/user-attachments/assets/e00a6189-7b5d-4c86-9998-2a5b4cae8401" />
+<img width="945" height="774" alt="Image" src="https://github.com/user-attachments/assets/8b49cddd-54ea-421e-b74f-0bd049240158" />
+<img width="887" height="776" alt="Image" src="https://github.com/user-attachments/assets/a7ea8b20-e6f4-4cbe-ad7d-c832915c3cf0" />
 
